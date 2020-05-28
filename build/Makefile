@@ -46,7 +46,7 @@ CFLAGS += -DDEBUG_OUTPUT
 ### optimize flag (default is -Os, normally no need to change)
 #OPTFLAG=-O2
 
-TWENET_DEBUG=1
+#TWENET_DEBUG=1
 DISABLE_LTO=1
 
 #####################################################################
