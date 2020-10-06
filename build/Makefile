@@ -46,9 +46,6 @@ CFLAGS += -DDEBUG_OUTPUT
 ### optimize flag (default is -Os, normally no need to change)
 #OPTFLAG=-O2
 
-#TWENET_DEBUG=1
-DISABLE_LTO=1
-
 #####################################################################
 ### set MWSDK install path and include makefile.
 MWSDK_PATH=$(realpath $(MWSDK_ROOT))

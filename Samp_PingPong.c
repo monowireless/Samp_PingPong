@@ -388,7 +388,7 @@ static void vInitHardware(int f_warm_start)
 
 
 	ToCoNet_vDebugInit(&sSerStream);
-	ToCoNet_vDebugLevel(3);
+	ToCoNet_vDebugLevel(0);
 
 	/// IOs
 	vPortSetLo(PORT_KIT_LED1);
