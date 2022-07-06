@@ -1,3 +1,8 @@
-サンプル-PingPong
-２つ以上のデバイスに書き込みます。片側で送信すると、他のデバイスから Pong メッセージが戻ってきます。
-https://github.com/monowireless/Samp_PingPong
+[JAPANESE]
+TITLE=サンプル-PingPong
+DESC=２つ以上のデバイスに書き込みます。片側から送信すると、他のデバイスから Pong メッセージが戻ってきます。
+URL=https://github.com/monowireless/Samp_PingPong
+[ENGLISH]
+TITLE=Samp_PingPong
+DESC=This is a sample of using the SPI Bus API.
+URL=https://github.com/monowireless/Samp_PingPong
